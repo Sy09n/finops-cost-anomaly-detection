@@ -44,5 +44,7 @@ Instead of just showing numbers, it explains *why* a spike happened in plain Eng
 
 This explanation helps founders immediately understand when and how spending changed,
 without digging through raw numbers.
+In 2023-04, total costs increased by 67.6% compared to the previous 3-month average.
+
 
 
