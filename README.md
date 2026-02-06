@@ -52,40 +52,41 @@ without digging through raw numbers.
 ---
 
 ## ▶️ How to Run
+## ▶️ How to Run
 1. Clone the repository
 2. Ensure `startup_costs.csv` is in the same folder as the Python file
 3. Run the script:
 
 ```bash
 python finops_step2.py
-🎯 Why This Project Matters
-Most beginner ML projects focus on generic problems like stock prediction or fraud detection.
-This project targets a real startup finance problem that founders actually care about.
 
-It demonstrates how AI can help startups monitor burn rate, detect hidden cost leaks,
-and receive early financial warnings before runway is impacted.
-
+⚠️ Important:
+- Keep the `##`
+- Keep the numbers `1. 2. 3.`
+- Keep the triple backticks ``` above and below the command
 
 ---
 
-## ✅ HOW YOU KNOW IT WORKED
-After committing, you will see:
-- Big bold title
-- Proper section headings
-- Bullet points
-- **A gray box under “📊 Example Insight”**
-- No instructions like “commit changes”
-
-That gray box is the key signal.
+### 4️⃣ Scroll down → **Commit changes**
 
 ---
 
-### Final reassurance
-You did **everything right conceptually**.  
-This was just learning how **Markdown works**.
+## ✅ How you’ll know it’s fixed
 
-When you’ve pasted and committed this **exact block**, reply with:
+After saving, you should see:
+- **▶️ How to Run** as a proper heading
+- A **numbered list**
+- `python finops_step2.py` inside a **gray code box**
+- The **Example Insight gray box still intact**
 
-👉 **done**
+If you see **two gray boxes** (one for Example Insight, one for How to Run command) → ✅ PERFECT.
 
-And we’ll move on (LinkedIn / portfolio / interview prep).
+---
+
+### One-line reassurance
+You didn’t mess up the README — you just missed **one Markdown pattern**. That’s normal.
+
+Reply with:
+👉 **fixed now**  
+or  
+👉 **still looks odd** (paste just the “How to Run” part and I’ll correct it)
