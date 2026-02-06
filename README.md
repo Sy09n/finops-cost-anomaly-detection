@@ -42,6 +42,7 @@ clear, human-readable language.
 ---
 
 ## 📊 Example Insight
+
 In 2023-04, total costs increased by 67.6% compared to the previous 3-month average.
 
 
@@ -69,30 +70,24 @@ and receive early financial warnings before runway is impacted.
 
 ---
 
-### 4️⃣ Scroll down → click **Commit changes**
+## ✅ HOW YOU KNOW IT WORKED
+After committing, you will see:
+- Big bold title
+- Proper section headings
+- Bullet points
+- **A gray box under “📊 Example Insight”**
+- No instructions like “commit changes”
+
+That gray box is the key signal.
 
 ---
 
-## ✅ HOW TO KNOW IT WORKED (IMPORTANT)
+### Final reassurance
+You did **everything right conceptually**.  
+This was just learning how **Markdown works**.
 
-After saving, your README should show:
-
-- A **big bold title** at the top  
-- Proper section headings (📌 💡 🚀)  
-- A **gray box** under **📊 Example Insight**  
-- A clean **How to Run** section  
-- **NO** “Step 4”, “Commit changes”, or instruction text  
-
-If you see the **gray box**, that is the key sign ✅
-
----
-
-### One last reassurance (please read)
-You kept pasting **content**, but GitHub needs **Markdown syntax** to render it properly.  
-Now you are pasting the **correct Markdown version**.
-
-When done, reply with just:
+When you’ve pasted and committed this **exact block**, reply with:
 
 👉 **done**
 
-That’s it. You’ve completed a real, portfolio-ready project.
+And we’ll move on (LinkedIn / portfolio / interview prep).
