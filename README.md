@@ -58,9 +58,7 @@ without digging through raw numbers.
 
 ```bash
 python finops_step2.py
-
 🎯 Why This Project Matters
-
 Most beginner ML projects focus on generic problems like stock prediction or fraud detection.
 This project targets a real startup finance problem that founders actually care about.
 
