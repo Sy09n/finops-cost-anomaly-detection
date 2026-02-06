@@ -12,7 +12,7 @@ Founders need an early signal when spending becomes unusual — before it become
 This project builds an AI-powered FinOps system that learns normal startup spending behavior
 and automatically detects unusual cost anomalies.
 
-Instead of just showing numbers, the system explains why a cost spike happened in
+Instead of just showing numbers, the system explains *why* a cost spike happened in
 clear, human-readable language.
 
 ---
@@ -34,12 +34,33 @@ clear, human-readable language.
 ---
 
 ## 🛠 Tech Stack
-- Python
-- pandas
-- matplotlib
-- Statistical anomaly detection
+- Python  
+- pandas  
+- matplotlib  
+- Statistical anomaly detection  
 
 ---
 
 ## 📊 Example Insight
 
+In 2023-04, total costs increased by 67.6% compared to the previous 3-month average.
+
+
+This explanation helps founders immediately understand when and how spending changed,
+without digging through raw numbers.
+
+---
+
+## ▶️ How to Run
+1. Clone the repository
+2. Ensure `startup_costs.csv` is in the same folder as the Python file
+3. Run the script:
+
+```bash
+python finops_step2.py
+🎯 Why This Project Matters
+Most beginner ML projects focus on generic problems like stock prediction or fraud detection.
+This project targets a real startup finance problem that founders actually care about.
+
+It demonstrates how AI can help startups monitor burn rate, detect hidden cost leaks,
+and receive early financial warnings before runway is impacted.
