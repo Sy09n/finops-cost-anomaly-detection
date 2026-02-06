@@ -50,8 +50,6 @@ This explanation helps founders immediately understand when and how spending cha
 without digging through raw numbers.
 
 ---
-
-## ▶️ How to Run
 ## ▶️ How to Run
 1. Clone the repository
 2. Ensure `startup_costs.csv` is in the same folder as the Python file
@@ -60,33 +58,40 @@ without digging through raw numbers.
 ```bash
 python finops_step2.py
 
-⚠️ Important:
-- Keep the `##`
-- Keep the numbers `1. 2. 3.`
-- Keep the triple backticks ``` above and below the command
+⚠️ **Important**
+- There must be **three backticks** before `bash`
+- And **three backticks** after `python finops_step2.py`
+- Do NOT add text after the last ```
 
 ---
 
-### 4️⃣ Scroll down → **Commit changes**
+## Step 5 — Scroll down → Click **Commit changes**
 
 ---
 
-## ✅ How you’ll know it’s fixed
+## ✅ HOW TO CHECK (VERY SIMPLE)
 
-After saving, you should see:
-- **▶️ How to Run** as a proper heading
-- A **numbered list**
-- `python finops_step2.py` inside a **gray code box**
-- The **Example Insight gray box still intact**
+After saving, look ONLY for this:
 
-If you see **two gray boxes** (one for Example Insight, one for How to Run command) → ✅ PERFECT.
+- Do you see **`python finops_step2.py` inside a gray box**?
+
+If YES → 🎉 **FIXED**  
+If NO → it means one backtick is missing.
 
 ---
 
-### One-line reassurance
-You didn’t mess up the README — you just missed **one Markdown pattern**. That’s normal.
+## 🧠 Why this keeps happening (so you don’t blame yourself)
 
-Reply with:
-👉 **fixed now**  
-or  
-👉 **still looks odd** (paste just the “How to Run” part and I’ll correct it)
+- Markdown is **extremely strict**
+- One missing ``` breaks everything below it
+- GitHub does **not** warn you
+
+Every developer hits this exact issue at least once.
+
+---
+
+### Now reply with ONE WORD:
+- **fixed**  
+- or **still broken**
+
+If it’s still broken, paste **only the “How to Run” section**, nothing else, and I’ll correct it line-by-line.
